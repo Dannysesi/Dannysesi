@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dannysesi
 - 👀 I’m interested in making new partners
 - 🌱 I’m currently learning Python in relation to Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on some Data Scienece projects to help broaden my horizons
+- 💞️ I’m looking to collaborate on some Data Science projects to help broaden my horizons
 - 📫 How to reach me gmail: daniel.olusesi20@gmail.com
 
 <!---
