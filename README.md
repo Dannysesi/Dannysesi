@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **building ML systems**
 
-- 🌱 I’m currently learning **deep learning using tensorflow**
+- 🌱 I’m currently learning **Backend with Django and  Deep Learning using Tensorflow**
 
 - 📫 How to reach me **daniel.olusesi20@gmail.com**
 
