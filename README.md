@@ -33,7 +33,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dannysesi&show_icons=true&locale=en" alt="dannysesi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dannysesi&" alt="dannysesi" /></p>
+<p>[![An image of @dannysesi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dannysesi)](https://holopin.io/@dannysesi)</p>
 <h3 align="center">Motto: Live Every Day to Become Better Than You Were Yesterday</h3>
+
 
 
 <!---
