@@ -22,6 +22,7 @@
 <a href="https://kaggle.com/https://www.kaggle.com/danielolusesi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/danielolusesi" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/leinad_the_gr8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/leinad_the_gr8/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/leinadthegr8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="leinadthegr8" height="30" width="40" /></a>
+<a href="https://techvillian.hashnode.dev" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="dannysesi24" height="30" width="40" /></a>
 </p>
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Dannysesi/Dannysesi/blob/main/devcard.svg" width="400" alt="Daniel Olusesi's Dev Card"/></a>
 
