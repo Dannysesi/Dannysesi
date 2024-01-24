@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannysesi&label=Profile%20views&color=0e75b6&style=flat" alt="dannysesi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dannysesi24" target="blank"><img src="https://img.shields.io/twitter/follow/dannysesi24?logo=twitter&style=for-the-badge" alt="dannysesi24" /></a> </p>
-<h3 align="center">Psalm 118:24 -> This is the day which the Lord hath made; we will rejoice and be glad in it.</h3>
+<h3 align="center">Proverbs 14:23 -> “All hard work brings a profit, but mere talk leads only to poverty.”</h3>
 
 <img src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" width='300' align="right" alt="animated coding gif" display="block" />
 
